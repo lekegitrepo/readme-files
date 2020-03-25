@@ -20,4 +20,4 @@ Check it on [Repl.it](https://repl.it/@TEMITAYOADELEKE/advanced-building-blocks-
 
 -   Github: [@lekegitrepo](https://github.com/lekegitrepo)
 -   Twitter: [@leketemi](https://twitter.com/leketemi)
--   Linkedin: [linkedin](https://www.linkedin.com/in/adeleke-temitayo-a69125188/)
+-   Linkedin: [linkedin](https://www.linkedin.com/in/temitayo-adeleke/)
